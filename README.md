@@ -1,4 +1,4 @@
-# What-s-in-GH-Documentation
+# What's in a Github Repository- A Documentation Perspective
 This Repository consists results of our empirical study to identify 
       
       * distribution of different documentation types in different documentation sources.
