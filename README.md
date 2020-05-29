@@ -1,6 +1,10 @@
 # What-s-in-GH-Documentation
 This Repository consists results of our empirical study to identify 
-      	* distribution of different documentation types in different documentation sources.
+       Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+          * distribution of different documentation types in different documentation sources.
       	* contribution of documentation sources to documentation types.
 
 The study was performed on 100 Github Repositories, 25 repositories each, from C++, C#, Java, Python Programming Languages.
